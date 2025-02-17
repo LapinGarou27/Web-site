@@ -1,0 +1,18 @@
+body {          
+    margin: 0;
+    background-color: cadetblue;               
+  }
+
+#aside {
+    border: solid;
+    border-radius: 50px;
+    border-color: rgba(43, 49, 73, 0.5);
+    background-color: rgb(64, 75, 126, 0.5);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    color:rgb(200, 208, 235);
+    width: 300px;
+    height: 800px;
+}
